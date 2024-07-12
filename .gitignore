@@ -17,4 +17,3 @@ yarn-error.log*
 !/**/index.css
 /package-lock.json
 /src/logo.svg
-/vendor

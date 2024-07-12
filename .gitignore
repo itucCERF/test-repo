@@ -14,3 +14,4 @@ yarn-error.log*
 .npm/
 /README.md
 /**/App.css
+/package-lock.json

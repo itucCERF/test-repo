@@ -18,4 +18,4 @@ yarn-error.log*
 /package-lock.json
 /src/logo.svg
 **/vendor
-**/.htaccess
+**/.htaccess*

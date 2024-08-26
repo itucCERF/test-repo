@@ -19,3 +19,4 @@ yarn-error.log*
 /src/logo.svg
 **/vendor
 **/.htaccess*
+ads*
